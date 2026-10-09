@@ -1,0 +1,107 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 41,
+    "sha256": "e449d4ad85322dbc5b592304190a4dda0cf4dc0e212a7e9872bee4a15f8b4d9c"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2466,
+    "sha256": "bf039bd32cb3732ae6bfc210ad9a6ed3e12d9bb7fe9f009e6167493039477930"
+  },
+  {
+    "path": "docs/design-review.md",
+    "bytes": 1159,
+    "sha256": "b75f3d379fbecad57b8679413e94af1287a72e81381bd6f55965517ab05b3a47"
+  },
+  {
+    "path": "docs/sources-and-scope.md",
+    "bytes": 817,
+    "sha256": "79a4b72f9108ef17b087afcabe5fe0035c16273dc7c86715a3d6c4531be21cdd"
+  },
+  {
+    "path": "fabrication/fix_camera.STL",
+    "bytes": 29084,
+    "sha256": "6d64d2993383f075bf5b225a558954bcf30c6753aca9f766b5bf1f1390145365"
+  },
+  {
+    "path": "fabrication/底板.DXF",
+    "bytes": 41730,
+    "sha256": "7e9223baeb687563a0cf957e70db3c3d872b66f1be9b86e57283cb95d5256f99"
+  },
+  {
+    "path": "images/assembly.png",
+    "bytes": 259031,
+    "sha256": "8906d131be809d6a938661779966c6ae14d56c32d3fa6ac57cfdc868251eae1e"
+  },
+  {
+    "path": "cad/solidworks/abs柱.SLDPRT",
+    "bytes": 49856,
+    "sha256": "3ba220344d2113c21c25919b028a185dcb6ccedf53049fd9894ca72fdfa47e2e"
+  },
+  {
+    "path": "cad/solidworks/Battery.SLDPRT",
+    "bytes": 72589,
+    "sha256": "c41e040e9f297db9c88025b9068f68baafaf3379413acba109ef86ab966a87a1"
+  },
+  {
+    "path": "cad/solidworks/camera板.SLDPRT",
+    "bytes": 76725,
+    "sha256": "2e8e4a252fde6aa0bc9ff25b07c06f92da67c9b40ec776dfbf79070549dcf0f1"
+  },
+  {
+    "path": "cad/solidworks/fix_camera.SLDPRT",
+    "bytes": 97711,
+    "sha256": "83b25509ce8a29de3d23aff37ddfc0c99a555fdf671ef5d8c7958d22de184a33"
+  },
+  {
+    "path": "cad/solidworks/lidar板.SLDPRT",
+    "bytes": 66848,
+    "sha256": "d956e4c9a56841a87bc79a66def50e6be81b0755c13f23b1d0ecf25797e82a08"
+  },
+  {
+    "path": "cad/solidworks/MicroROS_Control_Board_defeature.SLDPRT",
+    "bytes": 12808356,
+    "sha256": "b7227ae85e81c286e8a3a71401b322f802a208fa5afe7857e0c38a5f386675a8"
+  },
+  {
+    "path": "cad/solidworks/motor.SLDPRT",
+    "bytes": 58958,
+    "sha256": "147c8b339aa9b61283eb466eea9861aab64ab20fb44f89cadc05c376c15d3d57"
+  },
+  {
+    "path": "cad/solidworks/motor_fix.SLDPRT",
+    "bytes": 99469,
+    "sha256": "621c9e15845c3e0c1e67145d608f98adfaed6b0b93ff8f67135cb8a9559172dc"
+  },
+  {
+    "path": "cad/solidworks/MS200_X1_20221110.stp",
+    "bytes": 2022035,
+    "sha256": "6086941e7c5ab2c39b0e58aa4fdf12ccd94e209f37bc371e441c2c0286f4bced"
+  },
+  {
+    "path": "cad/solidworks/rpi-5b_no_graphics_1_defeature.SLDPRT",
+    "bytes": 9582271,
+    "sha256": "bf1f2a36bbfbf9f722c1bfa695bfec41783508fe25e7282a9ab46eb54fbad92f"
+  },
+  {
+    "path": "cad/solidworks/底板.SLDPRT",
+    "bytes": 253959,
+    "sha256": "cda101305469830578465c75cc274b34d3b67b1cfeeb4542154c603f2313598e"
+  },
+  {
+    "path": "cad/solidworks/整体.SLDASM",
+    "bytes": 7133573,
+    "sha256": "3e8ed81cf5f1ca171b8c60e143bb96b66feb3134c6d17038bb9f59022a329f37"
+  },
+  {
+    "path": "cad/solidworks/轮.SLDPRT",
+    "bytes": 66213,
+    "sha256": "5c78ba825e57a385e53fab1aeb35af65cf1f004047ae997c542a120d1a6398a2"
+  },
+  {
+    "path": "cad/solidworks/頂板.SLDPRT",
+    "bytes": 78694,
+    "sha256": "ae33dac565f40b0ed41f95bd25ad756b6402e9179cc283271adf35ffa7e5d806"
+  }
+]
