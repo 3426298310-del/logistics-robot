@@ -1,4 +1,4 @@
-# HKU Logistics Robot — Mechanical Design
+# Logistics Robot — Mechanical Design
 
 HKU DASE7503 Robotic Systems Integration · Group 8 · Work in progress
 
@@ -33,4 +33,5 @@ HKU DASE7503 Robotic Systems Integration · Group 8 · Work in progress
 
 DXF 为二维图，需向加工方明确毫米单位、1:1 比例、材料和板厚。当前 CAD 外廓处于用户提供的 300 × 300 × 180 mm 限制内，但没有计入未知线缆、紧固件外伸与举升后的高度。CAD 无干涉不能证明承载能力或实车运行可靠性。
 
-不包含课程 PDF、私人简历、联系方式或开发过程中的临时文件。第三方模型的再分发许可尚未核实，仓库默认用于私有项目归档。
+不包含课程 PDF、私人简历、联系方式或开发过程中的临时文件。第三方参考模型保留其原始权利；本仓库不对这些模型授予统一开源许可，相关来源与使用边界见 docs/sources-and-scope.md。
+
