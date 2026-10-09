@@ -1,0 +1,6 @@
+*.SLDPRT -text
+*.SLDASM -text
+*.stp -text
+*.DXF -text
+*.STL -text
+*.png -text
