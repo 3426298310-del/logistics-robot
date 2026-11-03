@@ -1,107 +1,221 @@
-[
-  {
-    "path": ".gitignore",
-    "bytes": 41,
-    "sha256": "e449d4ad85322dbc5b592304190a4dda0cf4dc0e212a7e9872bee4a15f8b4d9c"
-  },
-  {
-    "path": "README.md",
-    "bytes": 2466,
-    "sha256": "bf039bd32cb3732ae6bfc210ad9a6ed3e12d9bb7fe9f009e6167493039477930"
-  },
-  {
-    "path": "docs/design-review.md",
-    "bytes": 1159,
-    "sha256": "b75f3d379fbecad57b8679413e94af1287a72e81381bd6f55965517ab05b3a47"
-  },
-  {
-    "path": "docs/sources-and-scope.md",
-    "bytes": 817,
-    "sha256": "79a4b72f9108ef17b087afcabe5fe0035c16273dc7c86715a3d6c4531be21cdd"
-  },
-  {
-    "path": "fabrication/fix_camera.STL",
-    "bytes": 29084,
-    "sha256": "6d64d2993383f075bf5b225a558954bcf30c6753aca9f766b5bf1f1390145365"
-  },
-  {
-    "path": "fabrication/底板.DXF",
-    "bytes": 41730,
-    "sha256": "7e9223baeb687563a0cf957e70db3c3d872b66f1be9b86e57283cb95d5256f99"
-  },
-  {
-    "path": "images/assembly.png",
-    "bytes": 259031,
-    "sha256": "8906d131be809d6a938661779966c6ae14d56c32d3fa6ac57cfdc868251eae1e"
-  },
-  {
-    "path": "cad/solidworks/abs柱.SLDPRT",
-    "bytes": 49856,
-    "sha256": "3ba220344d2113c21c25919b028a185dcb6ccedf53049fd9894ca72fdfa47e2e"
-  },
-  {
-    "path": "cad/solidworks/Battery.SLDPRT",
-    "bytes": 72589,
-    "sha256": "c41e040e9f297db9c88025b9068f68baafaf3379413acba109ef86ab966a87a1"
-  },
-  {
-    "path": "cad/solidworks/camera板.SLDPRT",
-    "bytes": 76725,
-    "sha256": "2e8e4a252fde6aa0bc9ff25b07c06f92da67c9b40ec776dfbf79070549dcf0f1"
-  },
-  {
-    "path": "cad/solidworks/fix_camera.SLDPRT",
-    "bytes": 97711,
-    "sha256": "83b25509ce8a29de3d23aff37ddfc0c99a555fdf671ef5d8c7958d22de184a33"
-  },
-  {
-    "path": "cad/solidworks/lidar板.SLDPRT",
-    "bytes": 66848,
-    "sha256": "d956e4c9a56841a87bc79a66def50e6be81b0755c13f23b1d0ecf25797e82a08"
-  },
-  {
-    "path": "cad/solidworks/MicroROS_Control_Board_defeature.SLDPRT",
-    "bytes": 12808356,
-    "sha256": "b7227ae85e81c286e8a3a71401b322f802a208fa5afe7857e0c38a5f386675a8"
-  },
-  {
-    "path": "cad/solidworks/motor.SLDPRT",
-    "bytes": 58958,
-    "sha256": "147c8b339aa9b61283eb466eea9861aab64ab20fb44f89cadc05c376c15d3d57"
-  },
-  {
-    "path": "cad/solidworks/motor_fix.SLDPRT",
-    "bytes": 99469,
-    "sha256": "621c9e15845c3e0c1e67145d608f98adfaed6b0b93ff8f67135cb8a9559172dc"
-  },
-  {
-    "path": "cad/solidworks/MS200_X1_20221110.stp",
-    "bytes": 2022035,
-    "sha256": "6086941e7c5ab2c39b0e58aa4fdf12ccd94e209f37bc371e441c2c0286f4bced"
-  },
-  {
-    "path": "cad/solidworks/rpi-5b_no_graphics_1_defeature.SLDPRT",
-    "bytes": 9582271,
-    "sha256": "bf1f2a36bbfbf9f722c1bfa695bfec41783508fe25e7282a9ab46eb54fbad92f"
-  },
-  {
-    "path": "cad/solidworks/底板.SLDPRT",
-    "bytes": 253959,
-    "sha256": "cda101305469830578465c75cc274b34d3b67b1cfeeb4542154c603f2313598e"
-  },
-  {
-    "path": "cad/solidworks/整体.SLDASM",
-    "bytes": 7133573,
-    "sha256": "3e8ed81cf5f1ca171b8c60e143bb96b66feb3134c6d17038bb9f59022a329f37"
-  },
-  {
-    "path": "cad/solidworks/轮.SLDPRT",
-    "bytes": 66213,
-    "sha256": "5c78ba825e57a385e53fab1aeb35af65cf1f004047ae997c542a120d1a6398a2"
-  },
-  {
-    "path": "cad/solidworks/頂板.SLDPRT",
-    "bytes": 78694,
-    "sha256": "ae33dac565f40b0ed41f95bd25ad756b6402e9179cc283271adf35ffa7e5d806"
-  }
-]
+{
+  "version": "final-2026-11-03",
+  "source": "整体(16).zip",
+  "files": [
+    {
+      "file": "120mm螺絲.SLDPRT",
+      "bytes": 2873011,
+      "sha256": "bb25865f0a63b4d44b83a447f89cba9628d6b0538306767fb73b5e9926380520"
+    },
+    {
+      "file": "MG996R.step",
+      "bytes": 934043,
+      "sha256": "c29164181d8b82fceb33b9c3ae805c9a8a7f2ea9ade0f33fd916ba1c99836735"
+    },
+    {
+      "file": "MG996_Servo.SLDPRT",
+      "bytes": 130586,
+      "sha256": "855b7d2e8528921aa0c7d9b70d6ee5a219943ee8f1384a3036678dd80f80e74c"
+    },
+    {
+      "file": "MS200_X1_20221110.stp",
+      "bytes": 2022035,
+      "sha256": "6086941e7c5ab2c39b0e58aa4fdf12ccd94e209f37bc371e441c2c0286f4bced"
+    },
+    {
+      "file": "舵机圆形舵盘.SLDPRT",
+      "bytes": 116953,
+      "sha256": "49fe32028bb15adcc2afb1fbc78aeea19ac0f2a7c553baf4ff86ebfe29db0204"
+    },
+    {
+      "file": "15mm_螺絲.SLDPRT",
+      "bytes": 559150,
+      "sha256": "682d1822644068fc69a62db1b99baa16257bc93a018610b260c8e926fb3b9737"
+    },
+    {
+      "file": "3mm_abs柱.SLDPRT",
+      "bytes": 66319,
+      "sha256": "60d43dba568dbbdfee66552f83cbf10f760205185aa7d076950bc3e119c25a25"
+    },
+    {
+      "file": "4mm_2.3mm_7mm圓柱.SLDPRT",
+      "bytes": 58763,
+      "sha256": "79e5f3954de28fdf99b02359e4943d53f75fa27232d1dff69982f4ad35becd53"
+    },
+    {
+      "file": "6mm_3.3mm_8mm圓柱.SLDPRT",
+      "bytes": 60373,
+      "sha256": "8bfc3652ace7c3b2d9d8d9dabc132bae7a03dde7c4e236c23afaedd83729ebe4"
+    },
+    {
+      "file": "7_3.2_40abs柱.SLDPRT",
+      "bytes": 53489,
+      "sha256": "461d1ba1cc6271c4bba32398edd58d5b701debb2f38aeaf44c96228a993df3d0"
+    },
+    {
+      "file": "Battery.SLDPRT",
+      "bytes": 72206,
+      "sha256": "86d9107e74cdb11f451d0c488f01ae6da8d4a2186095e18dbd9bd05715de3ef4"
+    },
+    {
+      "file": "M2x16_内六角螺栓.SLDPRT",
+      "bytes": 523121,
+      "sha256": "f16837e6289413e4c339431fc7f9af06a35a52abc2d550a6899792ab0283af40"
+    },
+    {
+      "file": "M3x16_内六角螺栓_简化.SLDPRT",
+      "bytes": 90289,
+      "sha256": "838aa90b8d239c4d143a71455160c08726afadc8dc50da163523a54f0d6f4754"
+    },
+    {
+      "file": "M3平垫圈_0p5mm.SLDPRT",
+      "bytes": 76038,
+      "sha256": "f26cd4cf44405db1159c844e044a0678936759b73a0377c62f58da6830fc66a7"
+    },
+    {
+      "file": "M3防松螺母_简化.SLDPRT",
+      "bytes": 76066,
+      "sha256": "95e28d3fb6074ef445aa573f027a0256dfdfb12991819ff3ec484ef2befa847a"
+    },
+    {
+      "file": "MG996Rstep.SLDPRT",
+      "bytes": 1047720,
+      "sha256": "1f41f2459fa6638d79415c25eab22a75bd2d90d078c8789538db4b8032d62d4a"
+    },
+    {
+      "file": "MS200_X1_20221110.SLDPRT",
+      "bytes": 2415973,
+      "sha256": "bda56365fa243cc81ab955d3c2aeb7d69c79dae5e92a7cbc68a523f0769412b5"
+    },
+    {
+      "file": "MicroROS_Control_Board_defeature.SLDPRT",
+      "bytes": 12109801,
+      "sha256": "bf604a4bb85352203f2f201ecd84f8530681ca19f6524e00cba4b10f276f9d00"
+    },
+    {
+      "file": "Servo Horn2.SLDPRT",
+      "bytes": 138447,
+      "sha256": "14a635bb5f53184618d9989bc1da47ab4fcdfb7c026c6c48bdbdc9efad004e40"
+    },
+    {
+      "file": "abs柱.SLDPRT",
+      "bytes": 51325,
+      "sha256": "eae9f1370b3f0751742cd92d94cc07bf269c4cb99adb71de2e14a4698f4c3c57"
+    },
+    {
+      "file": "camera板.SLDPRT",
+      "bytes": 76494,
+      "sha256": "0da6665d18162bcaa5737ec31d98c17c539776814af8a2aded6c936cd888c4fa"
+    },
+    {
+      "file": "fix_camera.SLDPRT",
+      "bytes": 96275,
+      "sha256": "37646d9120b90cb92337e1bee566f765e3cc7a3d58ddb4d4ab417d2b6d511e35"
+    },
+    {
+      "file": "lidar板.SLDPRT",
+      "bytes": 67181,
+      "sha256": "d3fd4617f38a248761472470664a9eff80945945a68aae35d8cd1d61d138549e"
+    },
+    {
+      "file": "motor.SLDPRT",
+      "bytes": 60797,
+      "sha256": "8f6ebb3bf2dac97a3a3deb4ed4ef3182117f89fee31f4eb3565f9845faedf352"
+    },
+    {
+      "file": "motor_fix.SLDPRT",
+      "bytes": 99347,
+      "sha256": "85feecaf038d5137f817b0252c041cebfd971fa8cff51cc178b39ac61c250198"
+    },
+    {
+      "file": "rpi-5b_no_graphics_1_defeature.SLDPRT",
+      "bytes": 9426107,
+      "sha256": "282c52e2a0814bd9cd7988dbc0ddf63265ef906dcf5235c420894f28938a3da8"
+    },
+    {
+      "file": "上平台滑槽支架.SLDPRT",
+      "bytes": 114399,
+      "sha256": "76405687e6b9d9a139fdbbac92e3a3bbb0cfc4ee2bb8420f6fd390a8a260a423"
+    },
+    {
+      "file": "上滑动端隔套_3mm.SLDPRT",
+      "bytes": 81988,
+      "sha256": "a7b40d92e094894f700189a31f3cd394e2607a46074fb0393bab39ca58b08d27"
+    },
+    {
+      "file": "圆柱齿轮26×1.SLDPRT",
+      "bytes": 420853,
+      "sha256": "440383478f78fbb9f19fc26dbe307296eb7cfb6d80ce5bf4eacac07a91a1887b"
+    },
+    {
+      "file": "底板.SLDPRT",
+      "bytes": 319427,
+      "sha256": "f59ad13886b4231db63170c661484dfed50d8eb1c0320ac129eda92fa2004943"
+    },
+    {
+      "file": "整体.SLDASM",
+      "bytes": 8972244,
+      "sha256": "c471f7af9549ac05b423d30c8d35a4d08dbba85ab4dbedcf81798a3549359571"
+    },
+    {
+      "file": "滑槽.SLDPRT",
+      "bytes": 244534,
+      "sha256": "ec6936b1349f99ff165c864d29fefb1d1580b23d8c006e8381a232c393c89787"
+    },
+    {
+      "file": "舵机底座.SLDPRT",
+      "bytes": 430978,
+      "sha256": "18b903bf0a2afee192f94f94d31f91241a6265fc63b0a3ff36374ffc8ecc6dda"
+    },
+    {
+      "file": "货架承托平台.SLDPRT",
+      "bytes": 85639,
+      "sha256": "d772b7f584ab50ced98174edd55131e6d3d5889f3bd83840ed05fff7387df349"
+    },
+    {
+      "file": "轮.SLDPRT",
+      "bytes": 70974,
+      "sha256": "b299523b52d5fd6d78d8b8f1a8a8a7762a16acc52ea44ac06d63b21ccf7f901a"
+    },
+    {
+      "file": "连杆.SLDPRT",
+      "bytes": 95324,
+      "sha256": "e79bd9217935d3b791f9347856f6a51e7bf51c91365a8826b7c631ce5ba9a97f"
+    },
+    {
+      "file": "连杆铰接组件_夹持6mm.SLDASM",
+      "bytes": 83447,
+      "sha256": "903036f1ea10fb8f89c451a7a5b9c87f86cb18f9a695c8bd6ac73178925cf381"
+    },
+    {
+      "file": "電路板fix.SLDPRT",
+      "bytes": 88675,
+      "sha256": "4ce6013aa80dce273d6a76a30f4534bbb36e7a8cc0ef63960a002abd0311536a"
+    },
+    {
+      "file": "頂上fix.SLDPRT",
+      "bytes": 73185,
+      "sha256": "bc7c6c0e464f0191c67931dcee81aaeff792f34ffa5059b70bdf891a250a351b"
+    },
+    {
+      "file": "頂板.SLDPRT",
+      "bytes": 199411,
+      "sha256": "90439ccb5ad513666f5e59dddc26cb135dd6f750fbc7fcbdf9070ecb9f02f60a"
+    },
+    {
+      "file": "顶部固定端组件_夹持7p2mm.SLDASM",
+      "bytes": 82949,
+      "sha256": "4c7c710ee5643c2008d6d6e8bf2c6c04d7b438a96c3187f2db8703c545faba97"
+    },
+    {
+      "file": "顶部滑动端组件_夹持10p2mm.SLDASM",
+      "bytes": 93220,
+      "sha256": "16e6f64a31d2a4f8bd70924ea933d8de0a6748665fc3d6b421e203a4beffbe84"
+    },
+    {
+      "file": "齿条39×1.SLDPRT",
+      "bytes": 216323,
+      "sha256": "d9055b66b88ee93d3924a6f6a981d384d8f64c74809cf71c02383f8423e05e0a"
+    }
+  ]
+}
